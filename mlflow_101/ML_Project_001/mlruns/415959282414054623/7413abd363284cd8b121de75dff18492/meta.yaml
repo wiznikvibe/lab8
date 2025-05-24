@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/415959282414054623/7413abd363284cd8b121de75dff18492/artifacts
+end_time: 1748088962553
+entry_point_name: ''
+experiment_id: '415959282414054623'
+lifecycle_stage: active
+run_id: 7413abd363284cd8b121de75dff18492
+run_name: rogue-eel-649
+run_uuid: 7413abd363284cd8b121de75dff18492
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748088960113
+status: 3
+tags: []
+user_id: kai
