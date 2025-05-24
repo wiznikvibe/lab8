@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bd923375e56e41d3bdb9331c38aef904/artifacts
+end_time: 1748084758701
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd923375e56e41d3bdb9331c38aef904
+run_name: efficient-snipe-638
+run_uuid: bd923375e56e41d3bdb9331c38aef904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748084758686
+status: 3
+tags: []
+user_id: kai
