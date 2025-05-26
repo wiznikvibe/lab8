@@ -172,3 +172,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+mlflow_101/ML_Project_001/mlartifacts
+mlflow_101/ML_Project_001/mlruns
+mlflow_101/DL_MLFlow_Project/mlruns
