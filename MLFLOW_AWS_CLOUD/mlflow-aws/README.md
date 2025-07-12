@@ -36,7 +36,7 @@ aws configure
 
 
 #Finally 
-mlflow server -h 0.0.0.0 --default-artifact-root s3://mlflow-tracking
+mlflow server -h 0.0.0.0 --default-artifact-root s3://mlflowtracking-v2
 
 #open Public IPv4 DNS to the port 5000
 
