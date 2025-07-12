@@ -176,3 +176,5 @@ mlflow_101/ML_Project_001/mlartifacts
 mlflow_101/ML_Project_001/mlruns
 mlflow_101/DL_MLFlow_Project/mlruns
 DVC_DEMO/.dvc
+MLFLOW_AWS_CLOUD/mlflow-aws/.python-version
+MLFLOW_AWS_CLOUD/mlflow-aws/mlruns/
