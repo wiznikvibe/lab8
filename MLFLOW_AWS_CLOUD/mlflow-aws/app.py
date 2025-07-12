@@ -11,6 +11,8 @@ from mlflow.models.signature import infer_signature
 import mlflow.sklearn
 import logging
 
+os.environ["MLFLOW_TRACKING_URI"]="http://ec2-34-205-77-85.compute-1.amazonaws.com:5000/"
+
 logging.basicConfig(level=logging.WARN)
 logger = logging.getLogger(__name__)
 
@@ -42,7 +44,7 @@ if __name__ == "__main__":
     l1_ratio = float(sys.argv[2]) if len(sys.argv) > 2 else 0.5
     
     # Set tracking URI BEFORE starting the run
-    remote_server_uri = "http://ec2-3-89-232-177.compute-1.amazonaws.com:5000/"
+    remote_server_uri = "http://ec2-34-205-77-85.compute-1.amazonaws.com:5000/"
     mlflow.set_tracking_uri(remote_server_uri)
     
     with mlflow.start_run():
